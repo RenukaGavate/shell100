@@ -59,5 +59,5 @@ EOF
 fi
 
 nicenumber $1 1		# second arg forces this to 'echo' output
-
+echo "this is git commit"
 exit 0

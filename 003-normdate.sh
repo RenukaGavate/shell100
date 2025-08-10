@@ -43,5 +43,5 @@ else
 fi
 
 echo $month $2 $3
-
+echo "this is git commit"
 exit 0

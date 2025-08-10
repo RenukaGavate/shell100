@@ -29,3 +29,4 @@ else
 fi
 
 exit 0
+echo "this is git commit"
