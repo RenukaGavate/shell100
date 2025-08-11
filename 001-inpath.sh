@@ -57,3 +57,4 @@ esac
 exit 0
 echo "i can edit"
 ECHO hello team how are you
+echo "this is git"
